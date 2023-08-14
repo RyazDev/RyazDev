@@ -1,13 +1,17 @@
 <h1 align="center">Hi 👋, I'm Brayan <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
 
 <!-- Banner de programación -->
-![Programming Banner]()
+<!-- Banner de programación centrado y ajustado en tamaño -->
+
 
 ### 👨🏻‍💻 &nbsp;About Me
 
 🎓 &nbsp;Greetings! I am a first year student of Systems Engineering, and my enthusiasm for computing is constantly growing.\
 ♨️ &nbsp;I am currently specializing in Full Stack development with Java .\
 🌐 &nbsp;I am also immersed in the exciting world of web technologies, learning and experimenting with HTML, CSS, JS and React for the development of modern web applications.
+
+<!-- Imagen GIF a la derecha -->
+
 
 ### 🛠 &nbsp;Tech Stack
 
