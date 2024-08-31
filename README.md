@@ -6,7 +6,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-🎓 &nbsp;Greetings! I am a first year student of Systems Engineering, and my enthusiasm for computing is constantly growing.\
+🎓 &nbsp;Greetings! I am a Systems Engineering student and my enthusiasm for computing is constantly growing.\
 ♨️ &nbsp;I am currently specializing in Full Stack development with Java .\
 🌐 &nbsp;I am also immersed in the exciting world of web technologies, learning and experimenting with HTML, CSS, JS and React for the development of modern web applications.
 
