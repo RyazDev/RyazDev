@@ -19,55 +19,58 @@
 
 ---
 
-### 🧰 &nbsp;Tech Stack
-
-#### 💻 &nbsp;Languages
-
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" alt="CSS3" width="40" height="40"/>
-</p>
-
-#### 🧩 &nbsp;Frameworks & Libraries
-
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" width="40" height="40"/>
-</p>
-
-#### 🛠️ &nbsp;Tools & Platforms
-
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
-</p>
-
-#### 🗄️ &nbsp;Databases
-
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
-</p>
+### 🧰 &nbsp;My Tech Stack
+<table align="center">
+  <tr>
+    <td align="center" width="25%">
+      <strong>Languages</strong><br><br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="40" height="40" alt="HTML5" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="40" height="40" alt="CSS3" />
+    </td>
+    <td align="center" width="25%">
+      <strong>Frameworks</strong><br><br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" height="40" alt="Flutter" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="25%">
+      <strong>Tools</strong><br><br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40" height="40" alt="Postman" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" alt="VS Code" />
+    </td>
+    <td align="center" width="25%">
+      <strong>Databases</strong><br><br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="MySQL" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40" alt="MongoDB" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" width="40" height="40" alt="Firebase" />
+    </td>
+  </tr>
+</table>
 
 ---
 
 ### 📊 &nbsp;GitHub Analytics
 
-<p align="center">
-  <a href="https://github.com/RyazDev">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=RyazDev&show_icons=true&theme=algolia&hide_border=true&count_private=true" />
-    <img width="49%" src="https://streak-stats.demolab.com?user=RyazDev&theme=algolia&hide_border=true" />
+<div align='center'>
+  <a href='https://github.com/RyazDev'>
+    <img width="49.5%" src='https://github-readme-stats.vercel.app/api?username=RyazDev&show_icons=true&theme=github_dark&hide_border=true'>
+    <img width="49.5%" src='https://streak-stats.demolab.com/?user=RyazDev&theme=github-dark-blue&hide_border=true'>
   </a>
-</p>
+</div>
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=RyazDev&show_icons=true&layout=compact&theme=algolia&hide_border=true" />
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=RyazDev&hide_title=true&hide_border=true&theme=github-compact&area=true" />
-</p>
+<br>
+
+<div align='center'>
+  <a href='https://github.com/RyazDev'>
+    <img width="49.5%" src='https://github-readme-stats.vercel.app/api/top-langs?username=RyazDev&show_icons=true&layout=compact&theme=github_dark&hide_border=true'>
+    <img width="49.5%" src='https://github-readme-activity-graph.vercel.app/graph?username=RyazDev&hide_title=true&hide_border=true&line=4b8dda&point=1a2c42&area_color=0d1117&area=true&bg_color=0d1117&color=c3d1d9'>
+  </a>
+</div>
 
 ---
 
@@ -75,4 +78,5 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=RyazDev&style=for-the-badge&color=1f6feb" alt="Profile views" />
+  
 </p>
