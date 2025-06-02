@@ -1,48 +1,78 @@
-<h1 align="center">Hi 👋, I'm Brayan <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
+<h1 align="center">Hi 👋, I'm Brayan</h1>
 
-<!-- Banner de programación -->
-<!-- Banner de programación centrado y ajustado en tamaño -->
+<p align="center">
+  <img src="https://emoji.gg/assets/emoji/7333-parrotdance.gif" width="40" />
+</p>
 
+<p align="center">
+  <b>💻 Systems Engineering Student | Full Stack Java Developer | Passionate about Web Technologies</b>
+</p>
+
+---
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-🎓 &nbsp;Greetings! I am a Systems Engineering student and my enthusiasm for computing is constantly growing.\
-♨️ &nbsp;I am currently specializing in Full Stack development with Java .\
-🌐 &nbsp;I am also immersed in the exciting world of web technologies, learning and experimenting with HTML, CSS, JS and React for the development of modern web applications.
+🎓 I'm a Systems Engineering student passionate about software development.  
+💡 I enjoy building modern web applications and exploring full stack technologies.  
+💼 Currently focused on Java-based backend development and responsive frontends using React.  
+🚀 Always learning and experimenting with new tools, frameworks, and best practices.
 
-<!-- Imagen GIF a la derecha -->
+---
 
+### 🧰 &nbsp;Tech Stack
 
-### 🛠 &nbsp;Tech Stack
+#### 💻 &nbsp;Languages
 
-<!-- Update the tech stack to include your skills and technologies -->
-<p align="center"> 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  </a>
-  <a href="https://www.javascript.com/" target="_blank"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" alt="html5" width="40" height="40"/> 
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" alt="css3" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-  </a>
-  <a href="https://git-scm.com/" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  </a>
-</p>
-
-### ⚙️ &nbsp;GitHub Analytics
-
-<!-- Update with your own GitHub username -->
 <p align="center">
-<a href="https://github.com/RyazDev">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=RyazDev&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-</a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" alt="HTML5" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" alt="CSS3" width="40" height="40"/>
 </p>
 
+#### 🧩 &nbsp;Frameworks & Libraries
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" width="40" height="40"/>
+</p>
+
+#### 🛠️ &nbsp;Tools & Platforms
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
+</p>
+
+#### 🗄️ &nbsp;Databases
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
+</p>
+
+---
+
+### 📊 &nbsp;GitHub Analytics
+
+<p align="center">
+  <a href="https://github.com/RyazDev">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=RyazDev&show_icons=true&theme=algolia&hide_border=true&count_private=true" />
+    <img width="49%" src="https://streak-stats.demolab.com?user=RyazDev&theme=algolia&hide_border=true" />
+  </a>
+</p>
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=RyazDev&show_icons=true&layout=compact&theme=algolia&hide_border=true" />
+  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=RyazDev&hide_title=true&hide_border=true&theme=github-compact&area=true" />
+</p>
+
+---
+
+### 👁️‍🗨️ &nbsp;Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=RyazDev&style=for-the-badge&color=1f6feb" alt="Profile views" />
+</p>
