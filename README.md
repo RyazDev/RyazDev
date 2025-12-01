@@ -12,7 +12,7 @@
 
 ---
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="230" />
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" height="250" />
 
 🎓 **I'm a Systems Engineering student** passionate about software development.  
 💡 I enjoy building **modern web applications** and exploring full stack technologies.  
