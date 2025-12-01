@@ -1,0 +1,36 @@
+name: Generate Snake
+
+on:
+  # Se ejecuta cada 12 horas
+  schedule:
+    - cron: "0 */12 * * *" 
+  
+  # Permite ejecutar manual
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      - name: Generate Snake
+        uses: Platane/snk@v3
+        with:
+          github_user_name: RyazDev
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: Push to Output Branch
+        # CAMBIO CLAVE: Usamos peaceiris en vez de crazy-max para evitar el error
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./dist
+          publish_branch: output
+          keep_files: true
