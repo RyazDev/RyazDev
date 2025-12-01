@@ -5,24 +5,30 @@ on:
   schedule:
     - cron: "0 */12 * * *" 
   
-  # Permite ejecutarlo manualmente desde la pestaña Actions para probarlo
+  # Permite ejecutarlo manualmente
   workflow_dispatch:
+
+# ESTO ES CRUCIAL: Da permisos para guardar el archivo
+permissions:
+  contents: write
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
+      - name: Checkout repo
+        uses: actions/checkout@v4
 
-      - uses: Platane/snk@v3
-        id: snake-gif
+      - name: Generate Snake
+        uses: Platane/snk@v3
         with:
           github_user_name: RyazDev
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - uses: crazy-max/gh-action-github-pages@v3.1.0
+      - name: Push to Output Branch
+        uses: crazy-max/gh-action-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
