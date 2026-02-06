@@ -49,9 +49,10 @@
 ### 📊 &nbsp;GitHub Analytics
 
 <div align="center">
-  <img width="48%" src="https://streak-stats.demolab.com/?user=RyazDev&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=4B8DDA&currStreakLabel=4B8DDA" />
+  <img width="48%" src="https://streak-stats.demolab.com/?user=RyazDev&theme=tokyonight&hide_border=true&background=0d1117&ring=4B8DDA&fire=4B8DDA&currStreakLabel=4B8DDA&sideLabels=4B8DDA&dates=c3d1d9" alt="GitHub Streak" />
   <img width="48%" src="https://github-readme-activity-graph.vercel.app/graph?username=RyazDev&hide_title=true&hide_border=true&line=4b8dda&point=ffffff&area_color=1f6feb&area=true&bg_color=0d1117&color=c3d1d9" />
 </div>
+
 
 ---
 
