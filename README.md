@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=4B8DDA&center=true&vCenter=true&random=false&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Brayan;Aspiring+Full+Stack+Developer;Learning+JavaScript+Ecosystem" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=4B8DDA&center=true&vCenter=true&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Brayan;Aspiring+Full+Stack+Developer;Learning+JavaScript+Ecosystem" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -12,14 +12,16 @@
 
 ---
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" height="250" />
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" height="200" />
+</div>
 
-🎓 **Systems Engineering student** mastering **Full Stack JavaScript development**.  
-💡 Building modern web applications with a focus on clean code and best practices.  
-🚀 Learning the **MERN Stack** to build modern web application.  
-📚 Committed to daily learning, hands-on projects, and continuous improvement.
-
-<br clear="right"/>
+<p align="center">
+  🎓 <b>Systems Engineering student</b> mastering <b>Full Stack JavaScript development</b>.<br/>
+  💡 Building modern web applications with a focus on clean code and best practices.<br/>
+  🚀 Learning the <b>MERN Stack</b> to build modern web applications.<br/>
+  📚 Committed to daily learning, hands-on projects, and continuous improvement.
+</p>
 
 ---
 
@@ -49,10 +51,9 @@
 ### 📊 &nbsp;GitHub Analytics
 
 <div align="center">
-  <img width="48%" src="https://streak-stats.demolab.com/?user=RyazDev&theme=tokyonight&hide_border=true&background=0d1117&ring=4B8DDA&fire=4B8DDA&currStreakLabel=4B8DDA&sideLabels=4B8DDA&dates=c3d1d9" alt="GitHub Streak" />
-  <img width="48%" src="https://github-readme-activity-graph.vercel.app/graph?username=RyazDev&hide_title=true&hide_border=true&line=4b8dda&point=ffffff&area_color=1f6feb&area=true&bg_color=0d1117&color=c3d1d9" />
+  <img width="100%" src="https://streak-stats.demolab.com/?user=RyazDev&theme=tokyonight&hide_border=true&background=0d1117&ring=4B8DDA&fire=4B8DDA&currStreakLabel=4B8DDA&sideLabels=4B8DDA&dates=c3d1d9" alt="GitHub Streak" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=RyazDev&hide_title=true&hide_border=true&line=4b8dda&point=ffffff&area_color=1f6feb&area=true&bg_color=0d1117&color=c3d1d9" />
 </div>
-
 
 ---
 
@@ -69,5 +70,5 @@
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=C3D1D9&center=true&vCenter=true&random=false&width=500&lines=%E2%9C%A8+Learning+every+day%2C+Growing+constantly+%E2%9C%A8" alt="Footer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=1000&color=C3D1D9&center=true&vCenter=true&random=false&width=435&lines=%E2%9C%A8+Learning+every+day%2C+Growing+constantly+%E2%9C%A8" alt="Footer" />
 </div>
