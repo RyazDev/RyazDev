@@ -25,7 +25,7 @@
 
 ---
 
-### 🛠️ &nbsp;Tech Stack
+### Studing Tech Stack
 
 <div align="center">
 
@@ -48,7 +48,7 @@
 
 ---
 
-### 📊 &nbsp;GitHub Analytics
+### GitHub Analytics
 
 <div align="center">
   <img width="100%" src="https://streak-stats.demolab.com/?user=RyazDev&theme=tokyonight&hide_border=true&background=0d1117&ring=4B8DDA&fire=4B8DDA&currStreakLabel=4B8DDA&sideLabels=4B8DDA&dates=c3d1d9" alt="GitHub Streak" />
