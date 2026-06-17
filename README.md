@@ -17,10 +17,10 @@
 </div>
 
 <p align="center">
-  🎓 <b>Systems Engineering student</b> mastering <b>Full Stack JavaScript development</b>.<br/>
-  💡 Building modern web applications with a focus on clean code and best practices.<br/>
-  🚀 Learning the <b>MERN Stack</b> to build modern web applications.<br/>
-  📚 Committed to daily learning, hands-on projects, and continuous improvement.
+  <b>Systems Engineering student</b> mastering <b>Full Stack JavaScript development</b>.<br/>
+  Building modern web applications with a focus on clean code and best practices.<br/>
+  Learning the <b>MERN Stack</b> to build modern web applications.<br/>
+  Committed to daily learning, hands-on projects, and continuous improvement.
 </p>
 
 ---
