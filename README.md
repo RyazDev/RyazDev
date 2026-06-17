@@ -25,7 +25,7 @@
 
 ---
 
-### Studing Tech Stack
+### Studying Tech Stack
 
 <div align="center">
 
